@@ -1,3 +1,12 @@
+# Introduction
+The primary goal of this repository is to scrape news articles related to Bitcoin from trusted sources like **Binance** and **Yahoo Finance** to provide data for sentiment analysis. Analyzing the sentiment of these news articles could ''potentially'' help predict the future price movements of Bitcoin (BTC).
+
+## Project Overview
+- **Binance Scraper:** Collects news articles from Binance, a major cryptocurrency exchange known for its extensive coverage of Bitcoin and other digital assets.
+- **Yahoo Finance Scraper:** Gathers relevant news from Yahoo Finance, a reputable financial news platform providing a broad range of financial and investment information.
+
+<br>
+
 # Getting started
 To set up the project, follow these steps:
 
@@ -19,3 +28,8 @@ To set up the project, follow these steps:
 
 ## Usage
 Scrapers can be found under the `notebooks` folder. For better management, we recommend using Jupyter Notebooks to run them.
+
+<br>
+
+# Disclaimer
+While the sources used in this project are reliable, it's important to note that predicting Bitcoin's price is inherently challenging due to its volatile nature and the complex factors influencing its market. This project aims to provide short descriptions of Bitcoin news articles for sentiment analysis, sourced from two trusted platforms. However, it does not guarantee the reliability of those articles.
